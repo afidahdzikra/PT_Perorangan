@@ -51,7 +51,30 @@ Beberapa keuntungan mendirikan PT Perorangan yaitu:
 </ul>
 
 ## Persyaratan dan Prosedur Mendirikan PT Perorangan
+Syarat dokumen untuk mendirikan PT Perorangan:
+<ol>
+  <li>Fotokopi E-KTP Pendiri</li>
+  <li>NPWP Pendiri</li>
+  <li>Surat domisili PT yang dikeluarkan oleh RT atau RW setempat</li>
+  <li>Mengisi form pernyataan pendirian yang berisi:
+  <ul>
+    <li>Nama dan tempat kedudukan PT</li>
+    <li>Jangka waktu berdirinya PT</li>
+    <li>Maksud dan tujuan PT</li>
+    <li>Jenis kegiatan usaha PT</li>
+    <li>Jumlah modal dasar, modal ditempatkan, dan modal disetor</li>
+    <li>Alamat PT</li>
+    <li>Identitas pendiri PT (Nama lengkap, TTL, Pekerjaan, Tempat tinggal, NIK, NPWP)
+  </ul>
+  </li>  
+</ol>
 
+Prosedur pendirian PT:
+<ol>
+  <li>Melakukan Pendaftaran secara elektronik Perseroan Perorangan melalui sistem pelayanan https://ptp.ahu.go.id/ </li>
+  <li>Mengurus NPWP PT Perorangan</li>
+  <li>Mengurus NIB dan Izin usaha PT Perorangan melalui sistem https://oss.go.id/</li>
+</ol>
 
 ## Pelaporan Keuangan dan Pajak
 
