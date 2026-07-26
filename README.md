@@ -1,6 +1,6 @@
 # PT Perorangan : A step by step guide
 
-## Apa itu PT Perorangan
+## Apa itu PT Perorangan ?
 Perseroan Terbatas atau biasa disingkat PT adalah sebuah badan hukum yang berfungsi melakukan kegiatan usaha dengan modal dasar yang berupa saham. PT Perorangan sesuai dengan UU Cipta Kerja adalah perseroan terbatas yang didirikan oleh 1 (satu) orang saja sebagai pemegang saham yang juga berperan sebagai Direktur untuk memenuhi ketentuan usaha mikro dan kecil.
 
 Beberapa keuntungan mendirikan PT Perorangan yaitu: 
@@ -141,11 +141,14 @@ Mengutip dari https://izin.co.id/kbli-terbaru.php :
   </tbody>
 </table>
 
-### Mengurus Surat Domisili PT jika menggunakan Virtual Office
+### Apakah boleh menggunakan alamat rumah untuk PT Perorangan?
 
-
+Penggunaan alamat rumah untuk PT perorangan biasanya diperbolehkan jika kegiatan usaha yang dilakukan bersifat administratif atau tidak menimbulkan dampak lingkungan dan sosial yang signifikan, seperti kebisingan, limbah, atau gangguan pada tetangga. Untuk usaha yang tidak menimbulkan aktivitas fisik atau produksi barang, alamat rumah bisa digunakan, terutama jika berada di kawasan perumahan. Namun, perlu mengajukan izin khusus jika rumah tersebut berada di zona yang tidak diperuntukkan bagi kegiatan usaha, terutama di area yang secara eksplisit ditujukan untuk hunian.
 
 ## Pelaporan Keuangan dan Pajak
+
+### Kriteria PKP dan Non-PKP untuk PT Perorangan
+
 
 ## Referensi
 [izin.co.id (1)](https://izin.co.id/blog/pt-perorangan-adalah/#Apa_yang_Dimaksud_PT_Perorangan),
