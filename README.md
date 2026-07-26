@@ -1,4 +1,4 @@
-# PT_Perorangan
+# PT Perorangan : A step by step guide
 
 ## Apa itu PT Perorangan
 Perseroan Terbatas atau biasa disingkat PT adalah sebuah badan hukum yang berfungsi melakukan kegiatan usaha dengan modal dasar yang berupa saham. PT Perorangan sesuai dengan UU Cipta Kerja adalah perseroan terbatas yang didirikan oleh 1 (satu) orang saja sebagai pemegang saham yang juga berperan sebagai Direktur untuk memenuhi ketentuan usaha mikro dan kecil.
