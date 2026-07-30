@@ -141,9 +141,29 @@ Mengutip dari https://izin.co.id/kbli-terbaru.php :
   </tbody>
 </table>
 
-### Apakah boleh menggunakan alamat rumah untuk PT Perorangan?
+### Alamat PT : Fisik atau Virtual ?
 
-Penggunaan alamat rumah untuk PT perorangan biasanya diperbolehkan jika kegiatan usaha yang dilakukan bersifat administratif atau tidak menimbulkan dampak lingkungan dan sosial yang signifikan, seperti kebisingan, limbah, atau gangguan pada tetangga. Untuk usaha yang tidak menimbulkan aktivitas fisik atau produksi barang, alamat rumah bisa digunakan, terutama jika berada di kawasan perumahan. Namun, perlu mengajukan izin khusus jika rumah tersebut berada di zona yang tidak diperuntukkan bagi kegiatan usaha, terutama di area yang secara eksplisit ditujukan untuk hunian.
+#### Penggunaan Alamat Rumah Untuk Alamat PT
+
+Berbeda dengan PT biasa yang mengharuskan alamat domisili berada di zona bisnis atau perkantoran, alamat PT Perorangan selain mendapat ruang gerak lebih longgar dan diperbolehkan menggunakan alamat rumah sepanjang aktivitas usahanya memang berskala rumahan dan tidak menimbulkan dampak fisik ke lingkungan sekitar.
+
+Dasar hukum penggunaan alamat rumah sebagai alamat PT Perorangan:
+<ul>
+  <li>UU No. 6 Tahun 2023 tentang Penetapan Perppu Cipta Kerja, yang menyisipkan Pasal 153A ke UU No. 40 Tahun 2007 tentang Perseroan Terbatas.</li>
+  <li>PP No. 8 Tahun 2021 tentang Modal Dasar Perseroan Serta Pendaftaran Pendirian, Perubahan, dan Pembubaran Perseroan yang Memenuhi Kriteria untuk Usaha Mikro dan Kecil, yang mengatur teknis pendirian PT Perorangan termasuk data yang wajib dicantumkan, salah satunya alamat perseroan.</li>
+  <li>PP No. 5 Tahun 2021 tentang Perizinan Berbasis Risiko, yang mendasari mekanisme Kesesuaian Kegiatan Pemanfaatan Ruang (KKPR) di sistem OSS RBA. Inilah regulasi yang sebenarnya memutuskan lolos atau tidaknya alamat rumah yang digunakan</li>
+</ul>
+
+Syarat alamat rumah dapat digunakan:
+<ul>
+  <li><b>Kesesuaian zonasi RDTR.</b>
+    Sistem OSS RBA membaca koordinat alamat Anda dan mencocokkannya dengan peta RDTR setempat. Sebagian daerah memberi kelonggaran bagi usaha rumahan skala mikro dengan klasifikasi terbatas dalam matriks ITBX, bukan otomatis dilarang. Namun ini tidak berlaku universal di semua daerah, sehingga wajib dicek per lokasi, bukan diasumsikan berlaku sama di mana pun.</li>
+  <li><b>Jenis kegiatan usaha bersifat non-fisik.</b> 
+    Alamat rumah pada umumnya hanya diterima untuk usaha administratif seperti konsultasi, jasa digital, atau perdagangan daring, bukan usaha yang menimbulkan kebisingan, limbah, atau lalu lintas kendaraan tinggi ke lokasi tersebut.</li>
+    <li><b>Izin RT/RW dan kelurahan setempat</b></li>
+</ul>
+
+#### Virtual Office
 
 ## Pelaporan Keuangan dan Pajak
 
