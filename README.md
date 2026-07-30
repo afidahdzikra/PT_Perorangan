@@ -172,4 +172,5 @@ Syarat alamat rumah dapat digunakan:
 
 ## Referensi
 [izin.co.id (1)](https://izin.co.id/blog/pt-perorangan-adalah/#Apa_yang_Dimaksud_PT_Perorangan),
-[izin.co.id (2)](https://izin.co.id/pt-perorangan.php)
+<br>[izin.co.id (2)](https://izin.co.id/pt-perorangan.php),
+<br>[voffice.co.id](https://voffice.co.id/blog/apakah-pt-perorangan-bisa-pakai-alamat-rumah/)
